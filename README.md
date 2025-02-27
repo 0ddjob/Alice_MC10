@@ -32,6 +32,8 @@ This is what the 8KB daughterboard looks like installed in the Alice:<br>
 
 (Sidenote 2: the original Thomson 6803 CPU in my Alice was faulty causing [keyboard issues](https://youtu.be/A9SVZOl3z24) - I replaced it with a socketed Motorola 6803 seen on the left).<br>
 
+![Internal daughterboard installed in Alice sideview](/Internal_8KB_RAM/Images/Matra_Alice_8KB_installed_side1.jpeg)
+
 On the MC-10 it is necessary to also move a bodge wire from A12 (6803 pin 25) to A13 (6803 pin 24).  On the Alice this simply requires cutting a track to pin 25 and connecting it to pin 24:<br>
 
 ![Alice bodge wire relocation](/Internal_8KB_RAM/Images/Z1_6803_pin25_to_pin24.jpeg)
