@@ -36,5 +36,11 @@ On the MC-10 it is necessary to also move a bodge wire from A12 (6803 pin 25) to
 
 ![Alice bodge wire relocation](/Internal_8KB_RAM/Images/Z1_6803_pin25_to_pin24.jpeg)
 
+## Bill Of Materials
+- PCB (thanks to [PCBWay](www.pcbway.com) for their ongoing sponsorship)
+- 6264 static RAM (I didn't bother with a socket to keep height to a minimum)
+- 1KΩ resistor
+- 3-pin right-angle header & 3-way Dupont-type wire (or just wire directly)
+- two 12-pin headers (or single row cut into 12-pins)
 
-
+For the 12-pin headers I normally use "turned" pins in case I'm installing into an IC socket.  In this case I've just installed directly onto the board so the more common square-shaped header pins could be used instead.
