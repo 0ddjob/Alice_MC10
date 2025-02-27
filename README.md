@@ -5,7 +5,7 @@ This design is based on the work that Daniel Tufvesson documented on his [blog](
 I have [tested it on my Alice](https://youtu.be/OvdkhOnV7no) but not yet (as of 27-Feb-2025) on my MC-10.<br>
 
 ## Why Do this?
-The Alice/MC-10 shares its internal 4KB of RAM with the 6847 VDG.  The VDG can address up to 8KB of RAM but doesn't have access to the expansion bus, thus it can only access RAM that is installed internally.  The additional RAM allows access to additional video modes.  For example, the VDG requires 6KB of RAM for its 128x192x4 and 256x192x2 graphics modes. <br>
+The Alice/MC-10 shares its internal 4KB of RAM with the 6847 VDG.  The VDG can address up to 8KB of RAM but doesn't have access to the expansion bus, thus it can only access RAM that is installed internally.  The additional RAM allows access to additional video modes such as 128x192x4 and 256x192x2 graphics modes which require 6KB of RAM. <br>
 
 Of course, software needs to be written to take advantage of this.<br>
 
