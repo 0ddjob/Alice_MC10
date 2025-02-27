@@ -30,7 +30,7 @@ This is what the 8KB daughterboard looks like installed in the Alice:<br>
 
 (Sidenote 1: yes, the crossing of the black and yellow 6847 VDG address wires annoys me too - I have since updated the PCB so they don't cross!)<br>
 
-(Sidenote 2: the original Thomson 6803 CPU in my Alice was faulty causing keyboard issues - I replaced it with a socketed Motorola 6803 seen on the left).<br>
+(Sidenote 2: the original Thomson 6803 CPU in my Alice was faulty causing [keyboard issues](https://youtu.be/A9SVZOl3z24) - I replaced it with a socketed Motorola 6803 seen on the left).<br>
 
 On the MC-10 it is necessary to also move a bodge wire from A12 (6803 pin 25) to A13 (6803 pin 24).  On the Alice this simply requires cutting a track to pin 25 and connecting it to pin 24:<br>
 
