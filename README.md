@@ -15,7 +15,7 @@ Of course, software needs to be written to take advantage of this.<br>
 Standard Alice 4KB: 3142 bytes free<br>
 Alice with 8KB: 7238 bytes free<br>
 Standard Alice 4+16KB: 19526 bytes free<br>
-Alice with 8+16KB: 19526 bytes free (internal 8KB ignored?)<br>
+Alice with 8+16KB: 19526 bytes free (internal 8KB overlapped?)<br>
 
 ![Alice free memory with 8KB RAM](/Internal_8KB_RAM/Images/Alice_8KB_free_mem.png)
 
