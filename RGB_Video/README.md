@@ -26,6 +26,9 @@ These are based on the Alice schematic - may be changed to reflect MC-10's chip 
 - CHB = Z11 pin 9 (MC6847 VDG)
 - Y = Z11 28 (MC6847 VDG)
 
+### Notable Differences Between Alice & MC-10
+The crystal for the Alice is located next to the 6803 CPU whereas the MC-10's crystal is part of the RF modulator circuit.  This means that any modification to the MC-10's video output stage needs to include the crystal & system clock generation circuitry ... NOTE TO SELF!
+
 ## Status
 15-Mar-2025:<br>
 Work in progress!<br>
