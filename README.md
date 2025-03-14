@@ -1,4 +1,4 @@
-# Internal 8KB RAM Upgrade
+# Internal 4KB-to-8KB RAM Upgrade
 Upgrade the Alice or MC-10 internal RAM from 4KB to 8KB.<br>
 
 # RGB Video Modification (Work In Progress)
