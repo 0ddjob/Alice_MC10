@@ -3,4 +3,6 @@ This design is based on the Matra Alice schematic.  The Alice outputs an RGB+Aud
 
 ## Status
 15-Mar-2025:<br>
-Work in progress!
+Work in progress!<br>
+The schematic is almost complete, verifying against the Alice schematic (a bit hard to see some parts) and an actual Alice.<br>
+A PCB will then be designed and test PCBs fabricated.
