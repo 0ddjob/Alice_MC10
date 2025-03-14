@@ -2,6 +2,8 @@
 ## Background
 This design is based on the Matra Alice schematic.  The Alice outputs an RGB+Audio signal via a 7-pin DIN socket - this would normally be connected to a Peritel or SCART connector.<br>
 
+![Alice RGB Video Output Stage](Images/Alice_RGB_Video_5.jpeg)
+
 ## Design Notes
 ### Transistor Replacements
 The original design uses obsolete transistors: BC172c (NPN) and BC252c (PNP).  I've tried to match with available transistors - not an expert, happy to be advised of better matches:<br>
