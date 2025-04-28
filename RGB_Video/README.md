@@ -6,9 +6,9 @@ This design is based on the Matra Alice schematic.  The Alice outputs an RGB+Aud
 
 ## Design Notes
 ### Transistor Replacements
-The original design uses obsolete transistors: BC172c (NPN) and BC252c (PNP).  I've tried to match with available transistors - not an expert, happy to be advised of better matches:<br>
-BC172c -> 2N3904<br>
-BC252c -> BC558<br>
+The original design uses obsolete transistors: BC172C (NPN) and BC252C (PNP).  I've tried to match with available transistors - not an expert, happy to be advised of better matches:<br>
+BC172C -> BC550C<br>
+BC252C -> BC560C<br>
 
 ### Video Pinout (7-pin DIN)
 The video pinout is:<br>
