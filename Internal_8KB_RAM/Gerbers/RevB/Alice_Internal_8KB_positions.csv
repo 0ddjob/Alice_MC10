@@ -1,0 +1,5 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+90.693,-51.054,90.0,top,J1,,,PinHeader_1x03_P2.54mm_Horizontal,Conn_01x03,tht
+97.282,-65.532,180.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1KΩ,tht
+71.0,-42.315664,0.0,top,U1,,,DIP-28_W15.24mm,6264,tht
+68.76,-46.06,0.0,top,Z10,,,DIP-24_W15.24mm,D4016,tht

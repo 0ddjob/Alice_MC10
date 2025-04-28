@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,Conn_01x03,PinHeader_1x03_P2.54mm_Horizontal,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+R1,1,1KΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+U1,1,6264,DIP-28_W15.24mm,,,,tht,
+Z10,1,D4016,DIP-24_W15.24mm,,,,tht,
