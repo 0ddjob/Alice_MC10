@@ -6,3 +6,6 @@ Upgrade the Alice or MC-10 internal RAM from 4KB to 8KB.  Note that the extra 4K
 
 ## [RGB Video Modification](/RGB_Video) (Work In Progress)
 Convert the MC-10 video output from RF modulated to RGB - design is based on the Matra Alice.<br>
+
+## [Expander](https://github.com/Fred72z/ALICE)
+Check out [Fred72z's](https://github.com/Fred72z) excellent expansion for Alice & MC10 ... RAM, joysticks, cartridge.
